@@ -33,6 +33,9 @@ Durante a fase de exploração, detectou-se uma alta taxa de valores nulos nas c
 3.  **Data Cleaning:** Identificação e tratamento de *missing values* e *outliers*.
 4.  **Validação:** Uso de validação cruzada robusta para garantir que as previsões reflitam tendências reais e não ruídos estatísticos.
 
+
+## 📝 Créditos
+O dataset utilizado foi coletado no [Kaggle](https://www.kaggle.com/datasets/paulogladson/clima-fortaleza) por Paulo Gladson, mas podem ser encontrados também no site do [INMET](https://portal.inmet.gov.br/).
 ---
 
 > **Reflexão Pessoal:** > "Como arquiteto, entendo que este planeta é nossa casa. Este projeto é minha pequena contribuição, unindo dados e tecnologia, para lembrarmos que cuidar do clima é cuidar do lugar onde moramos."
